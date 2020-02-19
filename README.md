@@ -1,2 +1,2 @@
-# Optimisation
-Optimisation Submodule Coursework L3
+# Optimisation-Distributed
+Optimisation and Distributed Computing Submodule Coursework L3
